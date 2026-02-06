@@ -1,11 +1,8 @@
 {
   "name": "DIGGS Hackathon 2026",
-  "image": "mcr.microsoft.com/devcontainers/python:3.11",
-
-  "features": {
-    "ghcr.io/devcontainers/features/python:1": {
-      "version": "3.11"
-    }
+  "build": {
+    "context": "..",
+    "dockerfile": "../dockerfile"
   },
 
   "customizations": {
@@ -27,7 +24,7 @@
     }
   },
 
-  "postCreateCommand": "pip install --upgrade pip && pip install -r requirements.txt && python -m ipykernel install --user --name=diggs-hackathon --display-name='DIGGS Hackathon (Python 3.11)'",
+  "postCreateCommand": "python -m ipykernel install --user --name=diggs-hackathon --display-name='DIGGS Hackathon (Python 3.11)'",
 
   "forwardPorts": [8888],
 
