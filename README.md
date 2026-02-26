@@ -96,12 +96,14 @@ Projects should include:
 
 ## 🏅 Awards & Recognition
 
-- **Winners Announced**: At Geo-Congress 2026 in Salt Lake City
-- **Dinner** on Sunday March 8th 2026
-- **Presentations** on Monday March 9th 2026
-- **Categories**: TBA (likely based on challenge themes)
-- **Recognition**: Present your solution to the geotechnical community!
 
+- **Dinner**: Sunday March 8th 6:30 pm at The Copper Onion - 111 E Broadway #170, Salt Lake City, UT 84111
+- **Presentations**:  Monday March 9th 2-4pm in salt plance room 355E
+- **Project Overviews**: Tuesday March 10th 12:15pm Exhibit Hall, be there to answer questions!
+- **Winners Announced**: Wednesday March 11th 9:30am in planera room 155
+
+
+- 
 ## 🎉 Let's Build the Future of Geotechnical Data!
 
 Questions? Reach out to the organizing team or attend the weekly DIGGS Office Hours.
