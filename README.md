@@ -97,7 +97,7 @@ Projects should include:
 ## 🏅 Awards & Recognition
 
 - **Dinner**: Sunday March 8th 6:00 pm at The Copper Onion - 111 E Broadway #170, Salt Lake City, UT 84111
-- **Presentations**:  Monday March 9th 2-4pm in Salt Palace room 355E
+- **Presentations**:  Monday March 9th, 2–4pm, Salt Palace room 355E. Each team has 10 min to present, 5 for questions.
 - **Project Overviews**: Tuesday March 10th 12:15pm Exhibit Hall, be there to answer questions!
 - **Winners Announced**: Wednesday March 11th 9:30am in Plenary Room 155
  
