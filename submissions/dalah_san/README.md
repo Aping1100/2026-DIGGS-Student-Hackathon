@@ -3,7 +3,7 @@
 ## Team Members
 - Irene Peng
 
-## Challenge Theme(s)
+## Challenge Theme
 Direct Design/Interpretation: Develop tools that use DIGGS data for engineering analysis, design recommendations, or automated interpretations.
 
 ## Project Description
